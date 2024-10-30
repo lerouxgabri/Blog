@@ -57,5 +57,8 @@ checkout main
 Cambiado a rama 'main'
 
 git merge -version1
+Fast-forward
+ README.md | 59 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 59 insertions(+)
 git push
 ```
