@@ -1,64 +1,13 @@
 # Blog
 Proyecto de blog ETS
 
+### Origen de la idea
+Mi idea se origina debido a los diferentes resultados de diferentes fuentes de información al buscar cualquier tema en el navegador. He decidido poder crear un blog donde los usuarios puedan hablar desde la experiencia y qué les ha funcionado o no en cualquier ámbito.
 
-```bash
-git checkout main
+### Funcionalidad
 
-Ya en 'main'
-Tu rama está actualizada con 'origin/main'.
+Encontrar información que no es tan fácil encontrar en internet, puesto que esta información proviene de diferentes  personas que han hecho lo que están recomendando, además de la variedad de opiniones y recomendaciones. Algo que no encuentras en las webs genericas de la primera pagina de busqueda.
 
-git pull origin main
+### Beneficios
 
-Desde https://github.com/lerouxgabri/Blog
- 
- * branch            main       -> FETCH_HEAD
-
-Ya está actualizado.
-```
-
-```bash
-git checkout -b version-1
-
-Cambiado a nueva rama 'version-1'
-
-git branch
-
-main
-* version-1
-```
-
-```bash
-git push -u origin version-1
-
-* [new branch]      version-1 -> version-1
-rama 'version-1' configurada para rastrear 'origin/version-1'.
-```
-
-```bash
-git add .
-git commit -m "Inicio de la version 1 del proyecto"
-
-En la rama version-1
-Tu rama está actualizada con 'origin/version-1'.
-```
-
-```bash
-git branch -r
-
- origin/HEAD -> origin/main
- origin/main
- origin/version-1
-```
-
-```bash
-
-checkout main
-Cambiado a rama 'main'
-
-git merge -version1
-Fast-forward
- README.md | 59 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 59 insertions(+)
-git push
-```
+Información a primera mano, proveniente de personas con experiencia. Conocer nuevas personas. Intercambio de opiniones para coincidir con lo mejor.
