@@ -15,6 +15,8 @@ Información a primera mano, proveniente de personas con experiencia. Conocer nu
 --------------------------------------------------------------------------
 
 
+
+
 ## Especificaciones de Actores y Operaciones
 
 ### Actores
@@ -61,6 +63,5 @@ Información a primera mano, proveniente de personas con experiencia. Conocer nu
 
      1. Visualizar contenidos públicos.
      2. Buscar en la aplicación.
-     3. Filtrar contenidos por categoría.
-     4. Leer comentarios.
-     5. Visualizar estadísticas básicas de la aplicación.
+     3. Leer comentarios.
+     4. Visualizar estadísticas básicas de la aplicación.
