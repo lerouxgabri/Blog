@@ -12,7 +12,7 @@ Encontrar información que no es tan fácil encontrar en internet, puesto que es
 
 Información a primera mano, proveniente de personas con experiencia. Conocer nuevas personas. Intercambio de opiniones para coincidir con lo mejor.
 
---------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 
 
